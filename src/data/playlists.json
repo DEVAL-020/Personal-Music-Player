@@ -1,0 +1,3949 @@
+[
+ {
+  "id": "english",
+  "name": "D.J English",
+  "blurb": "Your English mix",
+  "cover": "/covers/playlists/english.jpg",
+  "hue": 200,
+  "tracks": [
+   {
+    "id": "en-001",
+    "title": "Faded",
+    "artist": "Alan Walker",
+    "cover": "/covers/en-001.jpg",
+    "slug": "faded",
+    "hue": 198,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-002",
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "cover": "/covers/en-002.jpg",
+    "slug": "blinding-lights",
+    "hue": 45,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-003",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "cover": "/covers/en-003.jpg",
+    "slug": "shape-of-you",
+    "hue": 274,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-004",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "cover": "/covers/en-004.jpg",
+    "slug": "perfect",
+    "hue": 328,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-005",
+    "title": "Señorita",
+    "artist": "Shawn Mendes, Camila Cabello",
+    "cover": "/covers/en-005.jpg",
+    "slug": "senorita",
+    "hue": 186,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-006",
+    "title": "Despacito",
+    "artist": "Luis Fonsi, Daddy Yankee",
+    "cover": "/covers/en-006.jpg",
+    "slug": "despacito",
+    "hue": 163,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-007",
+    "title": "Cradles",
+    "artist": "Sub Urban",
+    "cover": "/covers/en-007.jpg",
+    "slug": "cradles",
+    "hue": 312,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-008",
+    "title": "The Box",
+    "artist": "Roddy Ricch",
+    "cover": "/covers/en-008.jpg",
+    "slug": "the-box",
+    "hue": 321,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-009",
+    "title": "Alone, Pt. II",
+    "artist": "Alan Walker, Ava Max",
+    "cover": "/covers/en-009.jpg",
+    "slug": "alone-pt-ii",
+    "hue": 143,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-010",
+    "title": "Let Me Down Slowly",
+    "artist": "Alec Benjamin",
+    "cover": "/covers/en-010.jpg",
+    "slug": "let-me-down-slowly",
+    "hue": 98,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-011",
+    "title": "La Casa De Papel (Money Heist)",
+    "artist": "Geek Music",
+    "cover": "/covers/en-011.jpg",
+    "slug": "la-casa-de-papel",
+    "hue": 207,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-012",
+    "title": "Bones",
+    "artist": "Imagine Dragons",
+    "cover": "/covers/en-012.jpg",
+    "slug": "bones",
+    "hue": 187,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-013",
+    "title": "Mary On A Cross",
+    "artist": "Ghost",
+    "cover": "/covers/en-013.jpg",
+    "slug": "mary-on-a-cross",
+    "hue": 286,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-014",
+    "title": "Homage",
+    "artist": "Mild High Club",
+    "cover": "/covers/en-014.jpg",
+    "slug": "homage",
+    "hue": 57,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-015",
+    "title": "Cheri Cheri Lady",
+    "artist": "Modern Talking",
+    "cover": "/covers/en-015.jpg",
+    "slug": "cheri-cheri-lady",
+    "hue": 243,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-016",
+    "title": "A Sky Full of Stars",
+    "artist": "Coldplay",
+    "cover": "/covers/en-016.jpg",
+    "slug": "a-sky-full-of-stars",
+    "hue": 273,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-017",
+    "title": "Hymn for the Weekend",
+    "artist": "Coldplay",
+    "cover": "/covers/en-017.jpg",
+    "slug": "hymn-for-the-weekend",
+    "hue": 59,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-018",
+    "title": "Until I Found You",
+    "artist": "Stephen Sanchez",
+    "cover": "/covers/en-018.jpg",
+    "slug": "until-i-found-you",
+    "hue": 221,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-019",
+    "title": "Forever Young",
+    "artist": "Alphaville",
+    "cover": "/covers/en-019.jpg",
+    "slug": "forever-young",
+    "hue": 49,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-020",
+    "title": "Arabian Nights (2019)",
+    "artist": "Will Smith",
+    "cover": "/covers/en-020.jpg",
+    "slug": "arabian-nights",
+    "hue": 201,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-021",
+    "title": "Snowman",
+    "artist": "Sia",
+    "cover": "/covers/en-021.jpg",
+    "slug": "snowman",
+    "hue": 88,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-022",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga, Bruno Mars",
+    "cover": "/covers/en-022.jpg",
+    "slug": "die-with-a-smile",
+    "hue": 152,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-023",
+    "title": "Danza Kuduro",
+    "artist": "Don Omar, Lucenzo",
+    "cover": "/covers/en-023.jpg",
+    "slug": "danza-kuduro",
+    "hue": 244,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-024",
+    "title": "Co2",
+    "artist": "Prateek Kuhad",
+    "cover": "/covers/en-024.jpg",
+    "slug": "co2",
+    "hue": 353,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-025",
+    "title": "blue",
+    "artist": "yung kai",
+    "cover": "/covers/en-025.jpg",
+    "slug": "blue",
+    "hue": 352,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-026",
+    "title": "7 Years",
+    "artist": "Lukas Graham",
+    "cover": "/covers/en-026.jpg",
+    "slug": "7-years",
+    "hue": 263,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-027",
+    "title": "FUNK DO BOUNCE (Slowed)",
+    "artist": "Ariis",
+    "cover": "/covers/en-027.jpg",
+    "slug": "funk-do-bounce",
+    "hue": 114,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-028",
+    "title": "SLAY!",
+    "artist": "Eternxlkz",
+    "cover": "/covers/en-028.jpg",
+    "slug": "slay",
+    "hue": 341,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-029",
+    "title": "AURA",
+    "artist": "Ogryzek",
+    "cover": "/covers/en-029.jpg",
+    "slug": "aura",
+    "hue": 108,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-030",
+    "title": "Starboy",
+    "artist": "The Weeknd, Daft Punk",
+    "cover": "/covers/en-030.jpg",
+    "slug": "starboy",
+    "hue": 124,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-031",
+    "title": "All The Stars (with SZA)",
+    "artist": "Kendrick Lamar, SZA",
+    "cover": "/covers/en-031.jpg",
+    "slug": "all-the-stars",
+    "hue": 252,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-032",
+    "title": "Skyfall",
+    "artist": "Adele",
+    "cover": "/covers/en-032.jpg",
+    "slug": "skyfall",
+    "hue": 157,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-033",
+    "title": "La Maritza",
+    "artist": "Sylvie Vartan",
+    "cover": "/covers/en-033.jpg",
+    "slug": "la-maritza",
+    "hue": 97,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-034",
+    "title": "Beanie",
+    "artist": "Chezile",
+    "cover": "/covers/en-034.jpg",
+    "slug": "beanie",
+    "hue": 136,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-035",
+    "title": "Stereo Love",
+    "artist": "Edward Maya, Vika Jigulina",
+    "cover": "/covers/en-035.jpg",
+    "slug": "stereo-love",
+    "hue": 133,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-036",
+    "title": "Way down We Go",
+    "artist": "KALEO",
+    "cover": "/covers/en-036.jpg",
+    "slug": "way-down-we-go",
+    "hue": 315,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-037",
+    "title": "Six Days - Remix",
+    "artist": "DJ Shadow, Mos Def",
+    "cover": "/covers/en-037.jpg",
+    "slug": "six-days-remix",
+    "hue": 209,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-038",
+    "title": "Grand Theft Auto: San Andreas",
+    "artist": "Michael Hunter",
+    "cover": "/covers/en-038.jpg",
+    "slug": "grand-theft-auto-san-andreas",
+    "hue": 303,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-039",
+    "title": "Welcome To Los Santos",
+    "artist": "Oh No",
+    "cover": "/covers/en-039.jpg",
+    "slug": "welcome-to-los-santos",
+    "hue": 5,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-040",
+    "title": "AVANGARD - Slowed",
+    "artist": "LONOWN",
+    "cover": "/covers/en-040.jpg",
+    "slug": "avangard-slowed",
+    "hue": 276,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-041",
+    "title": "NEXT!",
+    "artist": "NCTS",
+    "cover": "/covers/en-041.jpg",
+    "slug": "next",
+    "hue": 88,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-042",
+    "title": "The Nights",
+    "artist": "Avicii",
+    "cover": "/covers/en-042.jpg",
+    "slug": "the-nights",
+    "hue": 63,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-043",
+    "title": "Self Control",
+    "artist": "Laura Branigan",
+    "cover": "/covers/en-043.jpg",
+    "slug": "self-control",
+    "hue": 266,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-044",
+    "title": "Spider-Man 2 Main Title",
+    "artist": "Danny Elfman",
+    "cover": "/covers/en-044.jpg",
+    "slug": "spider-man-2-main-title",
+    "hue": 102,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-045",
+    "title": "Bandoleros",
+    "artist": "Don Omar, Tego Calderón",
+    "cover": "/covers/en-045.jpg",
+    "slug": "bandoleros",
+    "hue": 320,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-046",
+    "title": "On The Floor",
+    "artist": "Jennifer Lopez, Pitbull",
+    "cover": "/covers/en-046.jpg",
+    "slug": "on-the-floor",
+    "hue": 175,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-047",
+    "title": "Happy Nation",
+    "artist": "Ace of Base",
+    "cover": "/covers/en-047.jpg",
+    "slug": "happy-nation",
+    "hue": 68,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-048",
+    "title": "Weathered the Storm",
+    "artist": "Eden Avery",
+    "cover": "/covers/en-048.jpg",
+    "slug": "weathered-the-storm",
+    "hue": 250,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-049",
+    "title": "Tobey and Andrew's Theme",
+    "artist": "Samuel Kim",
+    "cover": "/covers/en-049.jpg",
+    "slug": "tobey-and-andrew-s-theme",
+    "hue": 92,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-050",
+    "title": "Mortals Funk Remix",
+    "artist": "LXNGVX, Warriyo",
+    "cover": "/covers/en-050.jpg",
+    "slug": "mortals-funk-remix",
+    "hue": 335,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-051",
+    "title": "VEKI VEKI",
+    "artist": "DJZRX, motty, Rodricci, MC Novin, Launch13",
+    "cover": "/covers/en-051.jpg",
+    "slug": "veki-veki",
+    "hue": 281,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-052",
+    "title": "AL NACER!",
+    "artist": "Sayfalse, Nulteex",
+    "cover": "/covers/en-052.jpg",
+    "slug": "al-nacer",
+    "hue": 336,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-053",
+    "title": "LUNA BALA - Slowed",
+    "artist": "Yb Wasg'ood, Ariis, MC PR",
+    "cover": "/covers/en-053.jpg",
+    "slug": "luna-bala-slowed",
+    "hue": 255,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-054",
+    "title": "End of Beginning",
+    "artist": "Djo",
+    "cover": "/covers/en-054.jpg",
+    "slug": "end-of-beginning",
+    "hue": 98,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-055",
+    "title": "I Think They Call This Love - Cover",
+    "artist": "Matthew Ifield",
+    "cover": "/covers/en-055.jpg",
+    "slug": "i-think-they-call-this-love-cover",
+    "hue": 286,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-056",
+    "title": "The Winner Takes It All",
+    "artist": "ABBA",
+    "cover": "/covers/en-056.jpg",
+    "slug": "the-winner-takes-it-all",
+    "hue": 120,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-057",
+    "title": "Timeless (feat Playboi Carti)",
+    "artist": "The Weeknd, Playboi Carti",
+    "cover": "/covers/en-057.jpg",
+    "slug": "timeless",
+    "hue": 8,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-058",
+    "title": "Bitter Sweet Symphony",
+    "artist": "David Garrett",
+    "cover": "/covers/en-058.jpg",
+    "slug": "bitter-sweet-symphony",
+    "hue": 154,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-059",
+    "title": "Dorset Fields",
+    "artist": "Howard Harper-Barnes",
+    "cover": "/covers/en-059.jpg",
+    "slug": "dorset-fields",
+    "hue": 243,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-060",
+    "title": "A Man Without Love",
+    "artist": "Engelbert Humperdinck",
+    "cover": "/covers/en-060.jpg",
+    "slug": "a-man-without-love",
+    "hue": 285,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-061",
+    "title": "VOCE NA MIRA - Slowed",
+    "artist": "Hwungii, DJ VGK1",
+    "cover": "/covers/en-061.jpg",
+    "slug": "voce-na-mira-slowed",
+    "hue": 206,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-062",
+    "title": "In This Shirt",
+    "artist": "The Irrepressibles",
+    "cover": "/covers/en-062.jpg",
+    "slug": "in-this-shirt",
+    "hue": 248,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-063",
+    "title": "Headlights (feat. KIDDO) - Slowed",
+    "artist": "Alok, Alan Walker, KIDDO",
+    "cover": "/covers/en-063.jpg",
+    "slug": "headlights-slowed",
+    "hue": 118,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-064",
+    "title": "Bitter Sweet Symphony - Remastered",
+    "artist": "The Verve",
+    "cover": "/covers/en-064.jpg",
+    "slug": "bitter-sweet-symphony-remastered",
+    "hue": 63,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-065",
+    "title": "The Night We Met",
+    "artist": "Lord Huron",
+    "cover": "/covers/en-065.jpg",
+    "slug": "the-night-we-met",
+    "hue": 170,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-066",
+    "title": "Play Date",
+    "artist": "Melanie Martinez",
+    "cover": "/covers/en-066.jpg",
+    "slug": "play-date",
+    "hue": 341,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-067",
+    "title": "Like a Prayer - Choir Version",
+    "artist": "I'll Take You There Choir",
+    "cover": "/covers/en-067.jpg",
+    "slug": "like-a-prayer-choir-version",
+    "hue": 336,
+    "src": "",
+    "playlist": "english"
+   },
+   {
+    "id": "en-068",
+    "title": "Golden Brown - Slowed Down",
+    "artist": "The Stranglers",
+    "cover": "/covers/en-068.jpg",
+    "slug": "golden-brown-slowed-down",
+    "hue": 322,
+    "src": "",
+    "playlist": "english"
+   }
+  ]
+ },
+ {
+  "id": "hindi",
+  "name": "D.J Hindi",
+  "blurb": "Your Hindi mix",
+  "cover": "/covers/playlists/hindi.jpg",
+  "hue": 8,
+  "tracks": [
+   {
+    "id": "hi-001",
+    "title": "Abhi Mujh Mein Kahin",
+    "artist": "Ajay-Atul, Sonu Nigam",
+    "cover": "/covers/hi-001.jpg",
+    "slug": "abhi-mujh-mein-kahin",
+    "hue": 269,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-002",
+    "title": "Kun Faya Kun",
+    "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+    "cover": "/covers/hi-002.jpg",
+    "slug": "kun-faya-kun",
+    "hue": 12,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-003",
+    "title": "Duaa",
+    "artist": "Vishal-Shekhar, Nandini Srikar, Arijit Singh",
+    "cover": "/covers/hi-003.jpg",
+    "slug": "duaa",
+    "hue": 302,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-004",
+    "title": "Jee Le Zaraa",
+    "artist": "Vishal Dadlani, Ram Sampath, Javed Akhtar",
+    "cover": "/covers/hi-004.jpg",
+    "slug": "jee-le-zaraa",
+    "hue": 303,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-005",
+    "title": "Jiya Lage Na",
+    "artist": "Sona Mohapatra, Ravindra Upadhyay",
+    "cover": "/covers/hi-005.jpg",
+    "slug": "jiya-lage-na",
+    "hue": 143,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-006",
+    "title": "Tu Jaane Na",
+    "artist": "Pritam, Atif Aslam",
+    "cover": "/covers/hi-006.jpg",
+    "slug": "tu-jaane-na",
+    "hue": 10,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-007",
+    "title": "Surili Akhiyon Wale",
+    "artist": "Sajid-Wajid, Rahat Fateh Ali Khan",
+    "cover": "/covers/hi-007.jpg",
+    "slug": "surili-akhiyon-wale",
+    "hue": 91,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-008",
+    "title": "Luka Chuppi",
+    "artist": "A.R. Rahman, Lata Mangeshkar",
+    "cover": "/covers/hi-008.jpg",
+    "slug": "luka-chuppi",
+    "hue": 15,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-009",
+    "title": "Do Pal",
+    "artist": "Madan Mohan, Lata Mangeshkar",
+    "cover": "/covers/hi-009.jpg",
+    "slug": "do-pal",
+    "hue": 39,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-010",
+    "title": "Aarambh",
+    "artist": "Piyush Mishra",
+    "cover": "/covers/hi-010.jpg",
+    "slug": "aarambh",
+    "hue": 170,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-011",
+    "title": "Pani da Rang (Male)",
+    "artist": "Ayushmann Khurrana",
+    "cover": "/covers/hi-011.jpg",
+    "slug": "pani-da-rang",
+    "hue": 73,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-012",
+    "title": "Challa",
+    "artist": "A.R. Rahman, Rabbi, Gulzar",
+    "cover": "/covers/hi-012.jpg",
+    "slug": "challa",
+    "hue": 264,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-013",
+    "title": "Saans",
+    "artist": "A.R. Rahman, Shreya Ghoshal",
+    "cover": "/covers/hi-013.jpg",
+    "slug": "saans",
+    "hue": 290,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-014",
+    "title": "Pani Da Rang Male (From \"Vicky Donor\")",
+    "artist": "Ayushmann Khurrana",
+    "cover": "/covers/hi-014.jpg",
+    "slug": "pani-da-rang-male",
+    "hue": 129,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-015",
+    "title": "Bandeya Rey Bandeya",
+    "artist": "Arijit Singh, Asees Kaur",
+    "cover": "/covers/hi-015.jpg",
+    "slug": "bandeya-rey-bandeya",
+    "hue": 236,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-016",
+    "title": "Suno- Na Sangemarmar",
+    "artist": "Arijit Singh",
+    "cover": "/covers/hi-016.jpg",
+    "slug": "suno-na-sangemarmar",
+    "hue": 359,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-017",
+    "title": "Dil Dhadakne Do",
+    "artist": "Joi Barua, Suraj Jagan",
+    "cover": "/covers/hi-017.jpg",
+    "slug": "dil-dhadakne-do",
+    "hue": 239,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-018",
+    "title": "Señorita",
+    "artist": "Farhan Akhtar, Hrithik Roshan",
+    "cover": "/covers/hi-018.jpg",
+    "slug": "senorita-2",
+    "hue": 225,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-019",
+    "title": "Zindagi Do Pal Ki (From \"Kites\")",
+    "artist": "KK",
+    "cover": "/covers/hi-019.jpg",
+    "slug": "zindagi-do-pal-ki",
+    "hue": 173,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-020",
+    "title": "Ajab Si (From \"Om Shanti Om\")",
+    "artist": "KK",
+    "cover": "/covers/hi-020.jpg",
+    "slug": "ajab-si",
+    "hue": 176,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-021",
+    "title": "The Break Up Mashup",
+    "artist": "Nandini Srikar, Arijit Singh",
+    "cover": "/covers/hi-021.jpg",
+    "slug": "the-break-up-mashup",
+    "hue": 310,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-022",
+    "title": "Guzarish (From \"Ghajini\")",
+    "artist": "Javed Ali",
+    "cover": "/covers/hi-022.jpg",
+    "slug": "guzarish",
+    "hue": 80,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-023",
+    "title": "Jai Ho - From Slumdog Millionaire",
+    "artist": "Movie Sounds Unlimited",
+    "cover": "/covers/hi-023.jpg",
+    "slug": "jai-ho-from-slumdog-millionaire",
+    "hue": 87,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-024",
+    "title": "Laal Ishq",
+    "artist": "Sanjay Leela Bhansali, Arijit Singh",
+    "cover": "/covers/hi-024.jpg",
+    "slug": "laal-ishq",
+    "hue": 114,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-025",
+    "title": "Judaai",
+    "artist": "Sachin-Jigar, Rekha Bhardwaj",
+    "cover": "/covers/hi-025.jpg",
+    "slug": "judaai",
+    "hue": 176,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-026",
+    "title": "Aye Khuda",
+    "artist": "Salim Merchant",
+    "cover": "/covers/hi-026.jpg",
+    "slug": "aye-khuda",
+    "hue": 148,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-027",
+    "title": "Shukran Allah",
+    "artist": "Salim-Sulaiman, Sonu Nigam",
+    "cover": "/covers/hi-027.jpg",
+    "slug": "shukran-allah",
+    "hue": 40,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-028",
+    "title": "O Re Piya",
+    "artist": "Salim-Sulaiman, Rahat Fateh Ali Khan",
+    "cover": "/covers/hi-028.jpg",
+    "slug": "o-re-piya",
+    "hue": 34,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-029",
+    "title": "Muskurane - Romantic",
+    "artist": "Jeet Gannguli, Arijit Singh, Rashmi Virag",
+    "cover": "/covers/hi-029.jpg",
+    "slug": "muskurane-romantic",
+    "hue": 79,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-030",
+    "title": "Dil Chahta Hai",
+    "artist": "Shankar Mahadevan",
+    "cover": "/covers/hi-030.jpg",
+    "slug": "dil-chahta-hai",
+    "hue": 293,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-031",
+    "title": "Yaadein Yaad Aati Hai",
+    "artist": "Hariharan",
+    "cover": "/covers/hi-031.jpg",
+    "slug": "yaadein-yaad-aati-hai",
+    "hue": 45,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-032",
+    "title": "Papa Meri Jaan",
+    "artist": "Sonu Nigam, Harshavardhan Rameshwar",
+    "cover": "/covers/hi-032.jpg",
+    "slug": "papa-meri-jaan",
+    "hue": 55,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-033",
+    "title": "Sau Dard",
+    "artist": "Sonu Nigam, Suzanne",
+    "cover": "/covers/hi-033.jpg",
+    "slug": "sau-dard",
+    "hue": 273,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-034",
+    "title": "Yeh Vaada Raha - Tu Tu Hai Wahi",
+    "artist": "Kishore Kumar, Asha Bhosle, R. D. Burman",
+    "cover": "/covers/hi-034.jpg",
+    "slug": "yeh-vaada-raha-tu-tu-hai-wahi",
+    "hue": 339,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-035",
+    "title": "Ek Ajnabee Haseena Se",
+    "artist": "Kishore Kumar, R. D. Burman",
+    "cover": "/covers/hi-035.jpg",
+    "slug": "ek-ajnabee-haseena-se",
+    "hue": 167,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-036",
+    "title": "Neele Neele Ambar Par - Male Version",
+    "artist": "Kalyanji-Anandji, Kishore Kumar",
+    "cover": "/covers/hi-036.jpg",
+    "slug": "neele-neele-ambar-par-male-version",
+    "hue": 112,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-037",
+    "title": "Kya Hua Tera Vada",
+    "artist": "Sushma Shrestha, Mohammed Rafi",
+    "cover": "/covers/hi-037.jpg",
+    "slug": "kya-hua-tera-vada",
+    "hue": 68,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-038",
+    "title": "Bol Na Halke Halke",
+    "artist": "Shankar-Ehsaan-Loy",
+    "cover": "/covers/hi-038.jpg",
+    "slug": "bol-na-halke-halke",
+    "hue": 276,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-039",
+    "title": "Mitwa",
+    "artist": "Shankar-Ehsaan-Loy",
+    "cover": "/covers/hi-039.jpg",
+    "slug": "mitwa",
+    "hue": 272,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-040",
+    "title": "Tum Tak (From \"Raanjhanaa\")",
+    "artist": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA",
+    "cover": "/covers/hi-040.jpg",
+    "slug": "tum-tak",
+    "hue": 131,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-041",
+    "title": "Paisa Hai Toh",
+    "artist": "Sachin-Jigar, Vishal Dadlani, Mellow D",
+    "cover": "/covers/hi-041.jpg",
+    "slug": "paisa-hai-toh",
+    "hue": 335,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-042",
+    "title": "Bahara",
+    "artist": "Vishal-Shekhar, Shreya Ghoshal",
+    "cover": "/covers/hi-042.jpg",
+    "slug": "bahara",
+    "hue": 251,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-043",
+    "title": "Chammak Challo",
+    "artist": "Vishal-Shekhar, Akon, Hamsika lyer",
+    "cover": "/covers/hi-043.jpg",
+    "slug": "chammak-challo",
+    "hue": 90,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-044",
+    "title": "Sapna Jahan (From \"Brothers\")",
+    "artist": "Ajay-Atul, Sonu Nigam, Neeti Mohan",
+    "cover": "/covers/hi-044.jpg",
+    "slug": "sapna-jahan",
+    "hue": 40,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-045",
+    "title": "Aa Chal Ke Tujhe",
+    "artist": "Kishore Kumar",
+    "cover": "/covers/hi-045.jpg",
+    "slug": "aa-chal-ke-tujhe",
+    "hue": 107,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-046",
+    "title": "Phir Se Ud Chala",
+    "artist": "Mohit Chauhan",
+    "cover": "/covers/hi-046.jpg",
+    "slug": "phir-se-ud-chala",
+    "hue": 134,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-047",
+    "title": "Tu Chahiye",
+    "artist": "Pritam, Atif Aslam, Amitabh Bhattacharya",
+    "cover": "/covers/hi-047.jpg",
+    "slug": "tu-chahiye",
+    "hue": 1,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-048",
+    "title": "Tu Jo Mila",
+    "artist": "Pritam, KK, Kausar Munir",
+    "cover": "/covers/hi-048.jpg",
+    "slug": "tu-jo-mila",
+    "hue": 50,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-049",
+    "title": "Agar Tum Saath Ho",
+    "artist": "Alka Yagnik, Arijit Singh",
+    "cover": "/covers/hi-049.jpg",
+    "slug": "agar-tum-saath-ho",
+    "hue": 73,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-050",
+    "title": "Sajdaa",
+    "artist": "Shankar-Ehsaan-Loy",
+    "cover": "/covers/hi-050.jpg",
+    "slug": "sajdaa",
+    "hue": 194,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-051",
+    "title": "Tere Naina",
+    "artist": "Shankar-Ehsaan-Loy, Shafqat Amanat Ali",
+    "cover": "/covers/hi-051.jpg",
+    "slug": "tere-naina",
+    "hue": 205,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-052",
+    "title": "Lakshya",
+    "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan",
+    "cover": "/covers/hi-052.jpg",
+    "slug": "lakshya",
+    "hue": 180,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-053",
+    "title": "Bulleya",
+    "artist": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "cover": "/covers/hi-053.jpg",
+    "slug": "bulleya",
+    "hue": 243,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-054",
+    "title": "Phir Le Aya Dil - Reprise",
+    "artist": "Pritam, Arijit Singh, Sayeed Quadri",
+    "cover": "/covers/hi-054.jpg",
+    "slug": "phir-le-aya-dil-reprise",
+    "hue": 173,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-055",
+    "title": "Dil Kyun Yeh Mera",
+    "artist": "KK",
+    "cover": "/covers/hi-055.jpg",
+    "slug": "dil-kyun-yeh-mera",
+    "hue": 301,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-056",
+    "title": "Sawaar Loon",
+    "artist": "Monali Thakur, Amit Trivedi",
+    "cover": "/covers/hi-056.jpg",
+    "slug": "sawaar-loon",
+    "hue": 300,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-057",
+    "title": "Allah Ke Bande",
+    "artist": "Kailash Kher, Vishal-Shekhar",
+    "cover": "/covers/hi-057.jpg",
+    "slug": "allah-ke-bande",
+    "hue": 133,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-058",
+    "title": "Tum Mile",
+    "artist": "Pritam, Neeraj Shridhar",
+    "cover": "/covers/hi-058.jpg",
+    "slug": "tum-mile",
+    "hue": 0,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-059",
+    "title": "Mere Bina",
+    "artist": "Pritam, Nikhil D'Souza",
+    "cover": "/covers/hi-059.jpg",
+    "slug": "mere-bina",
+    "hue": 112,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-060",
+    "title": "Mujh Mein Tu",
+    "artist": "Keerthi Sagathia",
+    "cover": "/covers/hi-060.jpg",
+    "slug": "mujh-mein-tu",
+    "hue": 164,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-061",
+    "title": "Noor E Khuda",
+    "artist": "Shankar-Ehsaan-Loy, Adnan Sami",
+    "cover": "/covers/hi-061.jpg",
+    "slug": "noor-e-khuda",
+    "hue": 342,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-062",
+    "title": "Main Hoon Na",
+    "artist": "Sonu Nigam, Shreya Ghoshal",
+    "cover": "/covers/hi-062.jpg",
+    "slug": "main-hoon-na",
+    "hue": 355,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-063",
+    "title": "Likhe Jo Khat Tujhe",
+    "artist": "Mohammed Rafi",
+    "cover": "/covers/hi-063.jpg",
+    "slug": "likhe-jo-khat-tujhe",
+    "hue": 168,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-064",
+    "title": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "artist": "Pritam, Arijit Singh, Shreya Ghoshal",
+    "cover": "/covers/hi-064.jpg",
+    "slug": "ve-kamleya",
+    "hue": 47,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-065",
+    "title": "Taare Zameen Par",
+    "artist": "Shankar Mahadevan, Dominique",
+    "cover": "/covers/hi-065.jpg",
+    "slug": "taare-zameen-par",
+    "hue": 12,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-066",
+    "title": "Tum Se Hi",
+    "artist": "Pritam, Mohit Chauhan, Irshad Kamil",
+    "cover": "/covers/hi-066.jpg",
+    "slug": "tum-se-hi",
+    "hue": 206,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-067",
+    "title": "Kal Ho Naa Ho",
+    "artist": "Shankar-Ehsaan-Loy, Sonu Nigam",
+    "cover": "/covers/hi-067.jpg",
+    "slug": "kal-ho-naa-ho",
+    "hue": 29,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-068",
+    "title": "Tum Hi Hamari Ho Manzil My Love",
+    "artist": "Udit Narayan, Anuradha Paudwal",
+    "cover": "/covers/hi-068.jpg",
+    "slug": "tum-hi-hamari-ho-manzil-my-love",
+    "hue": 97,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-069",
+    "title": "Aye Dil Laya Hai Bahaar",
+    "artist": "Kavita Krishnamurthy, Hariharan",
+    "cover": "/covers/hi-069.jpg",
+    "slug": "aye-dil-laya-hai-bahaar",
+    "hue": 31,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-070",
+    "title": "Suniyan Suniyan",
+    "artist": "Juss, MixSingh",
+    "cover": "/covers/hi-070.jpg",
+    "slug": "suniyan-suniyan",
+    "hue": 14,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-071",
+    "title": "Tum Se (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+    "artist": "Sachin-Jigar, Raghav Chaitanya",
+    "cover": "/covers/hi-071.jpg",
+    "slug": "tum-se",
+    "hue": 75,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-072",
+    "title": "Ve Haaniyaan",
+    "artist": "Danny, Avvy Sra, Sagar",
+    "cover": "/covers/hi-072.jpg",
+    "slug": "ve-haaniyaan",
+    "hue": 325,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-073",
+    "title": "Mast Magan",
+    "artist": "Arijit Singh, Chinmayi",
+    "cover": "/covers/hi-073.jpg",
+    "slug": "mast-magan",
+    "hue": 191,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-074",
+    "title": "Sajni (From \"Laapataa Ladies\")",
+    "artist": "Ram Sampath, Arijit Singh, Prashant Pandey",
+    "cover": "/covers/hi-074.jpg",
+    "slug": "sajni",
+    "hue": 45,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-075",
+    "title": "Apna Bana Le",
+    "artist": "Sachin-Jigar, Arijit Singh",
+    "cover": "/covers/hi-075.jpg",
+    "slug": "apna-bana-le",
+    "hue": 295,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-076",
+    "title": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
+    "artist": "Sachin-Jigar, Arijit Singh",
+    "cover": "/covers/hi-076.jpg",
+    "slug": "phir-aur-kya-chahiye",
+    "hue": 351,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-077",
+    "title": "Zara Sa",
+    "artist": "Pritam, KK, Sayeed Quadri",
+    "cover": "/covers/hi-077.jpg",
+    "slug": "zara-sa",
+    "hue": 334,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-078",
+    "title": "Tauba Tauba (From \"Bad Newz\")",
+    "artist": "Karan Aujla",
+    "cover": "/covers/hi-078.jpg",
+    "slug": "tauba-tauba",
+    "hue": 56,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-079",
+    "title": "Mere Mehboob Mere Sanam",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "cover": "/covers/hi-079.jpg",
+    "slug": "mere-mehboob-mere-sanam",
+    "hue": 222,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-080",
+    "title": "Hauli Hauli",
+    "artist": "Guru Randhawa, Yo Yo Honey Singh",
+    "cover": "/covers/hi-080.jpg",
+    "slug": "hauli-hauli",
+    "hue": 243,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-081",
+    "title": "Duur Na Karin",
+    "artist": "Tanishk Bagchi, Vishal Mishra",
+    "cover": "/covers/hi-081.jpg",
+    "slug": "duur-na-karin",
+    "hue": 183,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-082",
+    "title": "Tera Hone Laga Hoon",
+    "artist": "Pritam, Atif Aslam, Alisha Chinai",
+    "cover": "/covers/hi-082.jpg",
+    "slug": "tera-hone-laga-hoon",
+    "hue": 28,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-083",
+    "title": "Sunn Raha Hai (Female Version)",
+    "artist": "Shreya Ghoshal, Ankit Tiwari, Sandeep Nath",
+    "cover": "/covers/hi-083.jpg",
+    "slug": "sunn-raha-hai",
+    "hue": 115,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-084",
+    "title": "Tum Hi Ho",
+    "artist": "Arijit Singh, Mithoon",
+    "cover": "/covers/hi-084.jpg",
+    "slug": "tum-hi-ho",
+    "hue": 244,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-085",
+    "title": "Sunn Raha Hai",
+    "artist": "Ankit Tiwari, Sandeep Nath",
+    "cover": "/covers/hi-085.jpg",
+    "slug": "sunn-raha-hai-2",
+    "hue": 48,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-086",
+    "title": "Chahun Main Ya Naa",
+    "artist": "Palak Muchhal, Arijit Singh",
+    "cover": "/covers/hi-086.jpg",
+    "slug": "chahun-main-ya-naa",
+    "hue": 141,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-087",
+    "title": "Meri Aashiqui",
+    "artist": "Palak Muchhal, Arijit Singh, Mithoon",
+    "cover": "/covers/hi-087.jpg",
+    "slug": "meri-aashiqui",
+    "hue": 227,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-088",
+    "title": "Dhadak - Title Track",
+    "artist": "Shreya Ghoshal, Ajay Gogavale",
+    "cover": "/covers/hi-088.jpg",
+    "slug": "dhadak-title-track",
+    "hue": 218,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-089",
+    "title": "Mohe Rang Do Laal",
+    "artist": "Pandit Birju Maharaj, Shreya Ghoshal",
+    "cover": "/covers/hi-089.jpg",
+    "slug": "mohe-rang-do-laal",
+    "hue": 356,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-090",
+    "title": "Piyu Bole",
+    "artist": "Sonu Nigam, Shreya Ghoshal",
+    "cover": "/covers/hi-090.jpg",
+    "slug": "piyu-bole",
+    "hue": 128,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-091",
+    "title": "Ishq Hua",
+    "artist": "Salim-Sulaiman, Sonu Nigam",
+    "cover": "/covers/hi-091.jpg",
+    "slug": "ishq-hua",
+    "hue": 129,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-092",
+    "title": "Raabta (Kehte Hain Khuda Ne)",
+    "artist": "Pritam, Shreya Ghoshal, Arijit Singh",
+    "cover": "/covers/hi-092.jpg",
+    "slug": "raabta",
+    "hue": 304,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-093",
+    "title": "Manwa Laage",
+    "artist": "Vishal-Shekhar, Shreya Ghoshal",
+    "cover": "/covers/hi-093.jpg",
+    "slug": "manwa-laage",
+    "hue": 358,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-094",
+    "title": "Aashiyan",
+    "artist": "Pritam, Shreya Ghoshal, Nikhil Paul George",
+    "cover": "/covers/hi-094.jpg",
+    "slug": "aashiyan",
+    "hue": 51,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-095",
+    "title": "Deewani Mastani",
+    "artist": "Shreya Ghoshal, Ganesh Chandanshive",
+    "cover": "/covers/hi-095.jpg",
+    "slug": "deewani-mastani",
+    "hue": 282,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-096",
+    "title": "Saathiyaa",
+    "artist": "Shreya Ghoshal, Ajay",
+    "cover": "/covers/hi-096.jpg",
+    "slug": "saathiyaa",
+    "hue": 8,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-097",
+    "title": "Maahi Ve",
+    "artist": "A.R. Rahman",
+    "cover": "/covers/hi-097.jpg",
+    "slug": "maahi-ve",
+    "hue": 93,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-098",
+    "title": "Tujhe Bhula Diya",
+    "artist": "Vishal-Shekhar, Mohit Chauhan",
+    "cover": "/covers/hi-098.jpg",
+    "slug": "tujhe-bhula-diya",
+    "hue": 42,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-099",
+    "title": "Duniyaa (From \"Luka Chuppi\")",
+    "artist": "Akhil, Dhvani Bhanushali, Kunaal Vermaa",
+    "cover": "/covers/hi-099.jpg",
+    "slug": "duniyaa",
+    "hue": 12,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-100",
+    "title": "Piya Aaye Na (From \"Aashiqui 2\")",
+    "artist": "Tulsi Kumar, KK",
+    "cover": "/covers/hi-100.jpg",
+    "slug": "piya-aaye-na",
+    "hue": 65,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-101",
+    "title": "Main Rang Sharbaton Ka",
+    "artist": "Atif Aslam, Chinmayi, Pritam",
+    "cover": "/covers/hi-101.jpg",
+    "slug": "main-rang-sharbaton-ka",
+    "hue": 308,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-102",
+    "title": "Tujh Mein Rab Dikhta Hai - II",
+    "artist": "Salim-Sulaiman, Shreya Ghoshal",
+    "cover": "/covers/hi-102.jpg",
+    "slug": "tujh-mein-rab-dikhta-hai-ii",
+    "hue": 322,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-103",
+    "title": "Ishq Wala Love",
+    "artist": "Vishal-Shekhar, Shekhar Ravjiani",
+    "cover": "/covers/hi-103.jpg",
+    "slug": "ishq-wala-love",
+    "hue": 24,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-104",
+    "title": "Main Agar Kahoon",
+    "artist": "Sonu Nigam, Shreya Ghoshal",
+    "cover": "/covers/hi-104.jpg",
+    "slug": "main-agar-kahoon",
+    "hue": 331,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-105",
+    "title": "Khuda Jaane",
+    "artist": "Vishal-Shekhar, KK, Shilpa Rao",
+    "cover": "/covers/hi-105.jpg",
+    "slug": "khuda-jaane",
+    "hue": 259,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-106",
+    "title": "Dil Diyan Gallan",
+    "artist": "Atif Aslam",
+    "cover": "/covers/hi-106.jpg",
+    "slug": "dil-diyan-gallan",
+    "hue": 227,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-107",
+    "title": "Naina Da Kya Kasoor",
+    "artist": "Amit Trivedi",
+    "cover": "/covers/hi-107.jpg",
+    "slug": "naina-da-kya-kasoor",
+    "hue": 226,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-108",
+    "title": "Zehnaseeb",
+    "artist": "Vishal-Shekhar, Chinmayi, Shekhar Ravjiani",
+    "cover": "/covers/hi-108.jpg",
+    "slug": "zehnaseeb",
+    "hue": 103,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-109",
+    "title": "Jeene Laga Hoon",
+    "artist": "Sachin-Jigar, Atif Aslam, Shreya Ghoshal",
+    "cover": "/covers/hi-109.jpg",
+    "slug": "jeene-laga-hoon",
+    "hue": 284,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-110",
+    "title": "Haule Haule",
+    "artist": "Salim-Sulaiman, Sukhwinder Singh",
+    "cover": "/covers/hi-110.jpg",
+    "slug": "haule-haule",
+    "hue": 36,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-111",
+    "title": "Tere Sang Yaara",
+    "artist": "Atif Aslam, Manoj Muntashir",
+    "cover": "/covers/hi-111.jpg",
+    "slug": "tere-sang-yaara",
+    "hue": 193,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-112",
+    "title": "Tum Ho",
+    "artist": "Mohit Chauhan, Suzanne D'Mello",
+    "cover": "/covers/hi-112.jpg",
+    "slug": "tum-ho",
+    "hue": 202,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-113",
+    "title": "Kaise Hua (From \"Kabir Singh\")",
+    "artist": "Vishal Mishra, Manoj Muntashir",
+    "cover": "/covers/hi-113.jpg",
+    "slug": "kaise-hua",
+    "hue": 129,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-114",
+    "title": "Jaanam (From \"Bad Newz\")",
+    "artist": "Vishal Mishra",
+    "cover": "/covers/hi-114.jpg",
+    "slug": "jaanam",
+    "hue": 115,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-115",
+    "title": "Mere Sohneya (From \"Kabir Singh\")",
+    "artist": "Sachet Tandon, Parampara Tandon",
+    "cover": "/covers/hi-115.jpg",
+    "slug": "mere-sohneya",
+    "hue": 132,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-116",
+    "title": "Masakali",
+    "artist": "Mohit Chauhan, A.R. Rahman, Prasoon Joshi",
+    "cover": "/covers/hi-116.jpg",
+    "slug": "masakali",
+    "hue": 205,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-117",
+    "title": "Alvida",
+    "artist": "Pritam, KK",
+    "cover": "/covers/hi-117.jpg",
+    "slug": "alvida",
+    "hue": 0,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-118",
+    "title": "Dil Ibaadat",
+    "artist": "Pritam, KK, Sayeed Quadri",
+    "cover": "/covers/hi-118.jpg",
+    "slug": "dil-ibaadat",
+    "hue": 31,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-119",
+    "title": "O Sona Tere Liye",
+    "artist": "A.R. Rahman, Shashaa Tirupati",
+    "cover": "/covers/hi-119.jpg",
+    "slug": "o-sona-tere-liye",
+    "hue": 88,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-120",
+    "title": "Tu Hi Re - From \"Bombay\"",
+    "artist": "Hariharan, Kavita Krishnamurthy",
+    "cover": "/covers/hi-120.jpg",
+    "slug": "tu-hi-re-from-bombay",
+    "hue": 79,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-121",
+    "title": "Main Yahaan Hoon",
+    "artist": "Madan Mohan, Udit Narayan, Javed Akhtar",
+    "cover": "/covers/hi-121.jpg",
+    "slug": "main-yahaan-hoon",
+    "hue": 284,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-122",
+    "title": "Main Agar Kahoon",
+    "artist": "Sonu Nigam, Shreya Ghoshal",
+    "cover": "/covers/hi-122.jpg",
+    "slug": "main-agar-kahoon-2",
+    "hue": 331,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-123",
+    "title": "Chand Sifarish",
+    "artist": "Jatin-Lalit, Shaan, Kailash Kher",
+    "cover": "/covers/hi-123.jpg",
+    "slug": "chand-sifarish",
+    "hue": 338,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-124",
+    "title": "Mere Haath Mein",
+    "artist": "Jatin-Lalit, Sonu Nigam",
+    "cover": "/covers/hi-124.jpg",
+    "slug": "mere-haath-mein",
+    "hue": 22,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-125",
+    "title": "Ae Mere Humsafar",
+    "artist": "Alka Yagnik, Udit Narayan",
+    "cover": "/covers/hi-125.jpg",
+    "slug": "ae-mere-humsafar",
+    "hue": 238,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-126",
+    "title": "Chand Chhupa Badal Mein",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "cover": "/covers/hi-126.jpg",
+    "slug": "chand-chhupa-badal-mein",
+    "hue": 108,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-127",
+    "title": "Pehla Nasha",
+    "artist": "Udit Narayan, Sadhana Sargam",
+    "cover": "/covers/hi-127.jpg",
+    "slug": "pehla-nasha",
+    "hue": 108,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-128",
+    "title": "Jaane Kyon Log Pyar",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "cover": "/covers/hi-128.jpg",
+    "slug": "jaane-kyon-log-pyar",
+    "hue": 54,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-129",
+    "title": "Phir Bhi Dil Hai Hindustani",
+    "artist": "Jatin-Lalit, Udit Narayan",
+    "cover": "/covers/hi-129.jpg",
+    "slug": "phir-bhi-dil-hai-hindustani",
+    "hue": 185,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-130",
+    "title": "Ae Kash Ke Hum",
+    "artist": "Jatin-Lalit, Kumar Sanu",
+    "cover": "/covers/hi-130.jpg",
+    "slug": "ae-kash-ke-hum",
+    "hue": 71,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-131",
+    "title": "Mitwa",
+    "artist": "A.R. Rahman, Alka Yagnik, Udit Narayan",
+    "cover": "/covers/hi-131.jpg",
+    "slug": "mitwa-2",
+    "hue": 36,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-132",
+    "title": "Main Rahoon Ya Na Rahoon",
+    "artist": "Amaal Mallik, Armaan Malik, Rashmi Virag",
+    "cover": "/covers/hi-132.jpg",
+    "slug": "main-rahoon-ya-na-rahoon",
+    "hue": 129,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-133",
+    "title": "Soch Na Sake",
+    "artist": "Amaal Mallik, Arijit Singh, Tulsi Kumar",
+    "cover": "/covers/hi-133.jpg",
+    "slug": "soch-na-sake",
+    "hue": 79,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-134",
+    "title": "Mere Dholna 3.0 (Sonu Nigam Version)",
+    "artist": "Pritam, Amaal Mallik, Sonu Nigam",
+    "cover": "/covers/hi-134.jpg",
+    "slug": "mere-dholna-3-0",
+    "hue": 100,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-135",
+    "title": "Bhool Bhulaiyaa 3 - Title Track",
+    "artist": "Pitbull, Diljit Dosanjh, Tanishk Bagchi",
+    "cover": "/covers/hi-135.jpg",
+    "slug": "bhool-bhulaiyaa-3-title-track",
+    "hue": 342,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-136",
+    "title": "Sandese Aate Hai",
+    "artist": "Sonu Nigam, Roop Kumar Rathod",
+    "cover": "/covers/hi-136.jpg",
+    "slug": "sandese-aate-hai",
+    "hue": 339,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-137",
+    "title": "Kiss Me Baby",
+    "artist": "Pritam, Adnan Sami, Sameer Anjaan",
+    "cover": "/covers/hi-137.jpg",
+    "slug": "kiss-me-baby",
+    "hue": 229,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-138",
+    "title": "Hum Ko Maaloom Hain",
+    "artist": "Sonu Nigam, Sadhana Sargam",
+    "cover": "/covers/hi-138.jpg",
+    "slug": "hum-ko-maaloom-hain",
+    "hue": 346,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-139",
+    "title": "Galliyan (From \"Ek Villain\")",
+    "artist": "Ankit Tiwari",
+    "cover": "/covers/hi-139.jpg",
+    "slug": "galliyan",
+    "hue": 280,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-140",
+    "title": "Abhi Na Jao Chhod Kar - Film Version",
+    "artist": "Pritam, Shashwat Singh",
+    "cover": "/covers/hi-140.jpg",
+    "slug": "abhi-na-jao-chhod-kar-film-version",
+    "hue": 141,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-141",
+    "title": "Moh Moh Ke Dhaage (Male)",
+    "artist": "Anu Malik, Papon, Varun Grover",
+    "cover": "/covers/hi-141.jpg",
+    "slug": "moh-moh-ke-dhaage",
+    "hue": 159,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-142",
+    "title": "Jiyein Kyun",
+    "artist": "Pritam, Papon",
+    "cover": "/covers/hi-142.jpg",
+    "slug": "jiyein-kyun",
+    "hue": 46,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-143",
+    "title": "Saajna",
+    "artist": "Falak Shabbir, Kumaar",
+    "cover": "/covers/hi-143.jpg",
+    "slug": "saajna",
+    "hue": 145,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-144",
+    "title": "Valam",
+    "artist": "Sachin-Jigar, Arijit Singh, Priya Saraiya",
+    "cover": "/covers/hi-144.jpg",
+    "slug": "valam",
+    "hue": 92,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-145",
+    "title": "Kar Har Maidaan Fateh",
+    "artist": "Sukhwinder Singh, Shreya Ghoshal",
+    "cover": "/covers/hi-145.jpg",
+    "slug": "kar-har-maidaan-fateh",
+    "hue": 227,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-146",
+    "title": "Kyon",
+    "artist": "Pritam, Papon, Sunidhi Chauhan",
+    "cover": "/covers/hi-146.jpg",
+    "slug": "kyon",
+    "hue": 344,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-147",
+    "title": "Duniya Mein Logon Ko",
+    "artist": "Asha Bhosle, R. D. Burman",
+    "cover": "/covers/hi-147.jpg",
+    "slug": "duniya-mein-logon-ko",
+    "hue": 109,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-148",
+    "title": "Raanjhan (From \"Do Patti\")",
+    "artist": "Sachet-Parampara, Parampara Tandon",
+    "cover": "/covers/hi-148.jpg",
+    "slug": "raanjhan",
+    "hue": 88,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-149",
+    "title": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
+    "artist": "Aditya Rikhari, Tulsi Kumar",
+    "cover": "/covers/hi-149.jpg",
+    "slug": "jaana-samjho-na",
+    "hue": 99,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-150",
+    "title": "Pehli Dafa",
+    "artist": "Atif Aslam, Shiraz Uppal, Shakeel Sohail",
+    "cover": "/covers/hi-150.jpg",
+    "slug": "pehli-dafa",
+    "hue": 224,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-151",
+    "title": "Rang Lageya",
+    "artist": "Mohit Chauhan, Rochak Kohli",
+    "cover": "/covers/hi-151.jpg",
+    "slug": "rang-lageya",
+    "hue": 267,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-152",
+    "title": "Sahiba",
+    "artist": "Jasleen Royal, Stebin Ben",
+    "cover": "/covers/hi-152.jpg",
+    "slug": "sahiba",
+    "hue": 283,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-153",
+    "title": "Manjha",
+    "artist": "Vishal Mishra",
+    "cover": "/covers/hi-153.jpg",
+    "slug": "manjha",
+    "hue": 50,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-154",
+    "title": "Mahiye Jinna Sohna",
+    "artist": "Darshan Raval",
+    "cover": "/covers/hi-154.jpg",
+    "slug": "mahiye-jinna-sohna",
+    "hue": 353,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-155",
+    "title": "Lag Ja Gale",
+    "artist": "Sanam",
+    "cover": "/covers/hi-155.jpg",
+    "slug": "lag-ja-gale",
+    "hue": 88,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-156",
+    "title": "Lag Ja Gale Se Phir",
+    "artist": "Lata Mangeshkar",
+    "cover": "/covers/hi-156.jpg",
+    "slug": "lag-ja-gale-se-phir",
+    "hue": 174,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-157",
+    "title": "Tere Hawaale (From \"Laal Singh Chaddha\")",
+    "artist": "Pritam, Arijit Singh, Shilpa Rao",
+    "cover": "/covers/hi-157.jpg",
+    "slug": "tere-hawaale",
+    "hue": 16,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-158",
+    "title": "Dekha Hazaro Dafaa",
+    "artist": "Arijit Singh, Palak Muchhal, Manoj Muntashir",
+    "cover": "/covers/hi-158.jpg",
+    "slug": "dekha-hazaro-dafaa",
+    "hue": 230,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-159",
+    "title": "Chaand Taare",
+    "artist": "Abhijeet, Jatin-Lalit",
+    "cover": "/covers/hi-159.jpg",
+    "slug": "chaand-taare",
+    "hue": 177,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-160",
+    "title": "Main Agar",
+    "artist": "Pritam, Atif Aslam",
+    "cover": "/covers/hi-160.jpg",
+    "slug": "main-agar",
+    "hue": 287,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-161",
+    "title": "Bin Tere",
+    "artist": "Vishal-Shekhar, Shafqat Amanat Ali",
+    "cover": "/covers/hi-161.jpg",
+    "slug": "bin-tere",
+    "hue": 210,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-162",
+    "title": "Kajra Re",
+    "artist": "Shankar-Ehsaan-Loy, Alisha Chinai",
+    "cover": "/covers/hi-162.jpg",
+    "slug": "kajra-re",
+    "hue": 312,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-163",
+    "title": "Ye Tune Kya Kiya",
+    "artist": "Pritam, Javed Bashir, Rajat Arora",
+    "cover": "/covers/hi-163.jpg",
+    "slug": "ye-tune-kya-kiya",
+    "hue": 212,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-164",
+    "title": "Zaroori Tha",
+    "artist": "Rahat Fateh Ali Khan",
+    "cover": "/covers/hi-164.jpg",
+    "slug": "zaroori-tha",
+    "hue": 31,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-165",
+    "title": "Tera Chehra",
+    "artist": "Himesh Reshammiya, Arijit Singh",
+    "cover": "/covers/hi-165.jpg",
+    "slug": "tera-chehra",
+    "hue": 209,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-166",
+    "title": "O Maahi",
+    "artist": "Pritam, Arijit Singh, Irshad Kamil",
+    "cover": "/covers/hi-166.jpg",
+    "slug": "o-maahi",
+    "hue": 77,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-167",
+    "title": "Kaise Mujhe (From \"Ghajini\")",
+    "artist": "Benny Dayal, Shreya Ghoshal",
+    "cover": "/covers/hi-167.jpg",
+    "slug": "kaise-mujhe",
+    "hue": 278,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-168",
+    "title": "Hai Apna Dil Toh Awara (From \"The Xpose\")",
+    "artist": "Himesh Reshammiya, Yo Yo Honey Singh",
+    "cover": "/covers/hi-168.jpg",
+    "slug": "hai-apna-dil-toh-awara",
+    "hue": 221,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-169",
+    "title": "Kabhi Alvida Naa Kehna",
+    "artist": "Shankar-Ehsaan-Loy, Sonu Nigam",
+    "cover": "/covers/hi-169.jpg",
+    "slug": "kabhi-alvida-naa-kehna",
+    "hue": 330,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-170",
+    "title": "Darmiyaan",
+    "artist": "Shafqat Amanat Ali, Clinton Cerejo",
+    "cover": "/covers/hi-170.jpg",
+    "slug": "darmiyaan",
+    "hue": 77,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-171",
+    "title": "Humsafar (From \"Badrinath Ki Dulhania\")",
+    "artist": "Akhil Sachdeva, Mansheel Gujral",
+    "cover": "/covers/hi-171.jpg",
+    "slug": "humsafar",
+    "hue": 241,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-172",
+    "title": "Itni Si Baat Hain (From \"Azhar\")",
+    "artist": "Pritam, Arijit Singh, Antara Mitra",
+    "cover": "/covers/hi-172.jpg",
+    "slug": "itni-si-baat-hain",
+    "hue": 156,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-173",
+    "title": "Yeh Fitoor Mera",
+    "artist": "Amit Trivedi, Arijit Singh",
+    "cover": "/covers/hi-173.jpg",
+    "slug": "yeh-fitoor-mera",
+    "hue": 224,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-174",
+    "title": "Qaafirana",
+    "artist": "Amit Trivedi, Arijit Singh, Nikhita Gandhi",
+    "cover": "/covers/hi-174.jpg",
+    "slug": "qaafirana",
+    "hue": 185,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-175",
+    "title": "Tera Fitoor",
+    "artist": "Arijit Singh, Himesh Reshammiya, Kumaar",
+    "cover": "/covers/hi-175.jpg",
+    "slug": "tera-fitoor",
+    "hue": 34,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-176",
+    "title": "Ishq Hai",
+    "artist": "Anurag Saikia, Raj Shekhar, Romy",
+    "cover": "/covers/hi-176.jpg",
+    "slug": "ishq-hai",
+    "hue": 125,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-177",
+    "title": "Maana Ke Hum Yaar Nahin (Duet)",
+    "artist": "Sachin-Jigar, Sonu Nigam",
+    "cover": "/covers/hi-177.jpg",
+    "slug": "maana-ke-hum-yaar-nahin",
+    "hue": 71,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-178",
+    "title": "Mere Naam Tu (From \"Zero\")",
+    "artist": "Abhay Jodhpurkar, Ajay-Atul",
+    "cover": "/covers/hi-178.jpg",
+    "slug": "mere-naam-tu",
+    "hue": 55,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-179",
+    "title": "Sari Sari Raat",
+    "artist": "Himesh Reshammiya",
+    "cover": "/covers/hi-179.jpg",
+    "slug": "sari-sari-raat",
+    "hue": 124,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-180",
+    "title": "Ek Haseena Thi (From \"Karzzzz\")",
+    "artist": "Himesh Reshammiya, Shreya Ghoshal",
+    "cover": "/covers/hi-180.jpg",
+    "slug": "ek-haseena-thi",
+    "hue": 81,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-181",
+    "title": "Jai Ho",
+    "artist": "A.R. Rahman, Sukhwinder Singh",
+    "cover": "/covers/hi-181.jpg",
+    "slug": "jai-ho",
+    "hue": 298,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-182",
+    "title": "Finding Her",
+    "artist": "Kushagra, Bharath, Saaheal",
+    "cover": "/covers/hi-182.jpg",
+    "slug": "finding-her",
+    "hue": 177,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-183",
+    "title": "Tere Nainon Mein",
+    "artist": "The Bilz & Kashif",
+    "cover": "/covers/hi-183.jpg",
+    "slug": "tere-nainon-mein",
+    "hue": 10,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-184",
+    "title": "Tum Jo Aaye",
+    "artist": "Pritam, Tulsi Kumar, Rahat Fateh Ali Khan",
+    "cover": "/covers/hi-184.jpg",
+    "slug": "tum-jo-aaye",
+    "hue": 321,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-185",
+    "title": "Hona Tha Pyar",
+    "artist": "Atif Aslam, Hadiqa Kiani",
+    "cover": "/covers/hi-185.jpg",
+    "slug": "hona-tha-pyar",
+    "hue": 333,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-186",
+    "title": "Ittefaq Se - Raat Baaki",
+    "artist": "Jubin Nautiyal, Nikhita Gandhi",
+    "cover": "/covers/hi-186.jpg",
+    "slug": "ittefaq-se-raat-baaki",
+    "hue": 77,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-187",
+    "title": "Kabhi Kabhi Aditi (From \"Jaane Tu... Ya Jaane Na\")",
+    "artist": "A.R. Rahman, Rashid Ali",
+    "cover": "/covers/hi-187.jpg",
+    "slug": "kabhi-kabhi-aditi",
+    "hue": 195,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-188",
+    "title": "Paniyon Sa",
+    "artist": "Tulsi Kumar, Atif Aslam, Rochak Kohli",
+    "cover": "/covers/hi-188.jpg",
+    "slug": "paniyon-sa",
+    "hue": 260,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-189",
+    "title": "Dil Meri Na Sune",
+    "artist": "Atif Aslam, Himesh Reshammiya",
+    "cover": "/covers/hi-189.jpg",
+    "slug": "dil-meri-na-sune",
+    "hue": 356,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-190",
+    "title": "Tera Hua (From \"Loveyatri\")",
+    "artist": "Atif Aslam, Tanishk Bagchi",
+    "cover": "/covers/hi-190.jpg",
+    "slug": "tera-hua",
+    "hue": 216,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-191",
+    "title": "Be Intehaan",
+    "artist": "Atif Aslam, Sunidhi Chauhan, Pritam",
+    "cover": "/covers/hi-191.jpg",
+    "slug": "be-intehaan",
+    "hue": 42,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-192",
+    "title": "Tere Liye",
+    "artist": "Atif Aslam, Shreya Ghoshal",
+    "cover": "/covers/hi-192.jpg",
+    "slug": "tere-liye",
+    "hue": 199,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-193",
+    "title": "Bakhuda Tumhi Ho",
+    "artist": "Atif Aslam, Alka Yagnik, Pritam",
+    "cover": "/covers/hi-193.jpg",
+    "slug": "bakhuda-tumhi-ho",
+    "hue": 237,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-194",
+    "title": "Daaru Desi",
+    "artist": "Pritam, Benny Dayal, Shalmali Kholgade",
+    "cover": "/covers/hi-194.jpg",
+    "slug": "daaru-desi",
+    "hue": 40,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-195",
+    "title": "Samjhawan",
+    "artist": "Jawad Ahmad, Shaarib Toshi",
+    "cover": "/covers/hi-195.jpg",
+    "slug": "samjhawan",
+    "hue": 37,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-196",
+    "title": "Mehrama (From \"Love Aaj Kal\")",
+    "artist": "Pritam, Darshan Raval, Antara Mitra",
+    "cover": "/covers/hi-196.jpg",
+    "slug": "mehrama",
+    "hue": 302,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-197",
+    "title": "Aashayein",
+    "artist": "KK, Salim Merchant",
+    "cover": "/covers/hi-197.jpg",
+    "slug": "aashayein",
+    "hue": 81,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-198",
+    "title": "Bade Achhe Lagte Hain",
+    "artist": "Amit Kumar, R. D. Burman",
+    "cover": "/covers/hi-198.jpg",
+    "slug": "bade-achhe-lagte-hain",
+    "hue": 288,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-199",
+    "title": "Ek Din Aap",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "cover": "/covers/hi-199.jpg",
+    "slug": "ek-din-aap",
+    "hue": 108,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-200",
+    "title": "Aas Paas Khuda",
+    "artist": "Vishal-Shekhar, Rahat Fateh Ali Khan",
+    "cover": "/covers/hi-200.jpg",
+    "slug": "aas-paas-khuda",
+    "hue": 201,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-201",
+    "title": "Tenu Sang Rakhna (From \"Jigra\")",
+    "artist": "Achint, Arijit Singh, Anumita Nadesan",
+    "cover": "/covers/hi-201.jpg",
+    "slug": "tenu-sang-rakhna",
+    "hue": 308,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-202",
+    "title": "Ek Pyar Ka Naghma Hai (Happy)",
+    "artist": "Lata Mangeshkar, Mukesh",
+    "cover": "/covers/hi-202.jpg",
+    "slug": "ek-pyar-ka-naghma-hai",
+    "hue": 89,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-203",
+    "title": "Jaadui (From \"Tu Jhoothi Main Makkaar\")",
+    "artist": "Pritam, Jubin Nautiyal",
+    "cover": "/covers/hi-203.jpg",
+    "slug": "jaadui",
+    "hue": 202,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-204",
+    "title": "In Dino",
+    "artist": "Pritam, Soham, Sayeed Quadri",
+    "cover": "/covers/hi-204.jpg",
+    "slug": "in-dino",
+    "hue": 75,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-205",
+    "title": "O Meri Jaan",
+    "artist": "Pritam, KK",
+    "cover": "/covers/hi-205.jpg",
+    "slug": "o-meri-jaan",
+    "hue": 145,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-206",
+    "title": "Main Hoon Hero Tera (Salman Khan Version)",
+    "artist": "Salman Khan",
+    "cover": "/covers/hi-206.jpg",
+    "slug": "main-hoon-hero-tera",
+    "hue": 78,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-207",
+    "title": "Kisi Ki Muskurahaton Pe",
+    "artist": "Mukesh",
+    "cover": "/covers/hi-207.jpg",
+    "slug": "kisi-ki-muskurahaton-pe",
+    "hue": 240,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-208",
+    "title": "Jugraafiya - From \"Super 30\"",
+    "artist": "Udit Narayan, Shreya Ghoshal",
+    "cover": "/covers/hi-208.jpg",
+    "slug": "jugraafiya-from-super-30",
+    "hue": 136,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-209",
+    "title": "Ajeeb-O-Gareeb - From \"Azaad\"",
+    "artist": "Arijit Singh, Amit Trivedi",
+    "cover": "/covers/hi-209.jpg",
+    "slug": "ajeeb-o-gareeb-from-azaad",
+    "hue": 158,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-210",
+    "title": "Sun Saathiya",
+    "artist": "Divya Kumar, Priya Saraiya",
+    "cover": "/covers/hi-210.jpg",
+    "slug": "sun-saathiya",
+    "hue": 98,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-211",
+    "title": "Halka Halka (From \"Fanney Khan\")",
+    "artist": "Sunidhi Chauhan, Divya Kumar, Amit Trivedi",
+    "cover": "/covers/hi-211.jpg",
+    "slug": "halka-halka",
+    "hue": 293,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-212",
+    "title": "Khamoshiyan",
+    "artist": "Jeet Gannguli, Arijit Singh, Rashmi Virag",
+    "cover": "/covers/hi-212.jpg",
+    "slug": "khamoshiyan",
+    "hue": 234,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-213",
+    "title": "Baatein Ye Kabhi Na - Male",
+    "artist": "Jeet Gannguli, Arijit Singh, Sayeed Quadri",
+    "cover": "/covers/hi-213.jpg",
+    "slug": "baatein-ye-kabhi-na-male",
+    "hue": 86,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-214",
+    "title": "Hasi - Male Version",
+    "artist": "Ami Mishra, Kunaal Vermaa",
+    "cover": "/covers/hi-214.jpg",
+    "slug": "hasi-male-version",
+    "hue": 78,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-215",
+    "title": "Naino Ne Baandhi",
+    "artist": "Yasser Desai, Arko",
+    "cover": "/covers/hi-215.jpg",
+    "slug": "naino-ne-baandhi",
+    "hue": 345,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-216",
+    "title": "Nazm Nazm",
+    "artist": "Arko",
+    "cover": "/covers/hi-216.jpg",
+    "slug": "nazm-nazm",
+    "hue": 197,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-217",
+    "title": "Jeetenge",
+    "artist": "Arko, B Praak",
+    "cover": "/covers/hi-217.jpg",
+    "slug": "jeetenge",
+    "hue": 181,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-218",
+    "title": "Dil Ko Karaar Aaya (From \"Sukoon\")",
+    "artist": "Rajat Nagpal, Yasser Desai, Neha Kakkar",
+    "cover": "/covers/hi-218.jpg",
+    "slug": "dil-ko-karaar-aaya",
+    "hue": 36,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-219",
+    "title": "Main Royaan",
+    "artist": "Rajat Nagpal, Tanveer Evan",
+    "cover": "/covers/hi-219.jpg",
+    "slug": "main-royaan",
+    "hue": 187,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-220",
+    "title": "Niyam Ho",
+    "artist": "Rucha Soman, Sonal Naik, Maithili Panse",
+    "cover": "/covers/hi-220.jpg",
+    "slug": "niyam-ho",
+    "hue": 166,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-221",
+    "title": "Tumhe Apna Banane Ka",
+    "artist": "Armaan Malik, Neeti Mohan",
+    "cover": "/covers/hi-221.jpg",
+    "slug": "tumhe-apna-banane-ka",
+    "hue": 158,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-222",
+    "title": "Baatein Kuch Ankahee",
+    "artist": "Pritam, Adnan Sami",
+    "cover": "/covers/hi-222.jpg",
+    "slug": "baatein-kuch-ankahee",
+    "hue": 237,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-223",
+    "title": "Iktara",
+    "artist": "Amit Trivedi, Kavita Seth",
+    "cover": "/covers/hi-223.jpg",
+    "slug": "iktara",
+    "hue": 286,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-224",
+    "title": "Lehra Do - From \"83\"",
+    "artist": "Pritam, Arijit Singh",
+    "cover": "/covers/hi-224.jpg",
+    "slug": "lehra-do-from-83",
+    "hue": 316,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-225",
+    "title": "Prem's Theme",
+    "artist": "Anu Malik, Papon, Varun Grover",
+    "cover": "/covers/hi-225.jpg",
+    "slug": "prem-s-theme",
+    "hue": 298,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-226",
+    "title": "Yun Hi Chala Chal",
+    "artist": "Udit Narayan, Hariharan, Kailash Kher",
+    "cover": "/covers/hi-226.jpg",
+    "slug": "yun-hi-chala-chal",
+    "hue": 63,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-227",
+    "title": "Yeh Jo Des Hai Tera",
+    "artist": "A.R. Rahman",
+    "cover": "/covers/hi-227.jpg",
+    "slug": "yeh-jo-des-hai-tera",
+    "hue": 307,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-228",
+    "title": "Vaaroon",
+    "artist": "Anand Bhaskar, Romy, Ginny Diwan",
+    "cover": "/covers/hi-228.jpg",
+    "slug": "vaaroon",
+    "hue": 71,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-229",
+    "title": "Sajna Tu Baimaan",
+    "artist": "Shashwat Sachdev, Shilpa Rao, B Praak",
+    "cover": "/covers/hi-229.jpg",
+    "slug": "sajna-tu-baimaan",
+    "hue": 148,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-230",
+    "title": "Number 1 (Title Track)",
+    "artist": "Ujwal Gupta, Vishal Dadlani, Kumaar",
+    "cover": "/covers/hi-230.jpg",
+    "slug": "number-1",
+    "hue": 7,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-231",
+    "title": "Tera Rastaa Chhodoon Na",
+    "artist": "Vishal-Shekhar, Amitabh Bhattacharya",
+    "cover": "/covers/hi-231.jpg",
+    "slug": "tera-rastaa-chhodoon-na",
+    "hue": 53,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-232",
+    "title": "Pungi",
+    "artist": "Pritam, Mika Singh",
+    "cover": "/covers/hi-232.jpg",
+    "slug": "pungi",
+    "hue": 155,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-233",
+    "title": "Dil Mera Muft Ka",
+    "artist": "Pritam, Nandini Srikar, Muazzam, Rizwan",
+    "cover": "/covers/hi-233.jpg",
+    "slug": "dil-mera-muft-ka",
+    "hue": 324,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-234",
+    "title": "Raabta (Night In A Motel)",
+    "artist": "Pritam, Hamsika, Arijit Singh",
+    "cover": "/covers/hi-234.jpg",
+    "slug": "raabta-2",
+    "hue": 222,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-235",
+    "title": "Saware",
+    "artist": "Pritam, Arijit Singh",
+    "cover": "/covers/hi-235.jpg",
+    "slug": "saware",
+    "hue": 152,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-236",
+    "title": "Afghan Jalebi (Film Version)",
+    "artist": "Pritam, Akhtar Chinnal",
+    "cover": "/covers/hi-236.jpg",
+    "slug": "afghan-jalebi",
+    "hue": 116,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-237",
+    "title": "Chennai Express - Sad Theme",
+    "artist": "Emrose Percussion, Ravindu Sirimanne",
+    "cover": "/covers/hi-237.jpg",
+    "slug": "chennai-express-sad-theme",
+    "hue": 157,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-238",
+    "title": "Tu Hi Haqeeqat",
+    "artist": "Pritam, Javed Ali",
+    "cover": "/covers/hi-238.jpg",
+    "slug": "tu-hi-haqeeqat",
+    "hue": 193,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-239",
+    "title": "Phir Mohabbat (From \"Murder 2\")",
+    "artist": "Mohammed Irfan, Arijit Singh, Saim Bhat",
+    "cover": "/covers/hi-239.jpg",
+    "slug": "phir-mohabbat",
+    "hue": 240,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-240",
+    "title": "Pyaar Ke Pal",
+    "artist": "KK",
+    "cover": "/covers/hi-240.jpg",
+    "slug": "pyaar-ke-pal",
+    "hue": 248,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-241",
+    "title": "Make Some Noise For The Desi Boyz",
+    "artist": "Pritam, KK, Bob",
+    "cover": "/covers/hi-241.jpg",
+    "slug": "make-some-noise-for-the-desi-boyz",
+    "hue": 83,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-242",
+    "title": "Laapata",
+    "artist": "Sohail Sen, KK, Palak Muchhal, Anvita Dutt",
+    "cover": "/covers/hi-242.jpg",
+    "slug": "laapata",
+    "hue": 7,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-243",
+    "title": "Lae Dooba",
+    "artist": "Sunidhi Chauhan, Manoj Muntashir",
+    "cover": "/covers/hi-243.jpg",
+    "slug": "lae-dooba",
+    "hue": 99,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-244",
+    "title": "Jag Ghoomeya",
+    "artist": "Vishal-Shekhar, Rahat Fateh Ali Khan",
+    "cover": "/covers/hi-244.jpg",
+    "slug": "jag-ghoomeya",
+    "hue": 37,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-245",
+    "title": "Hawayein",
+    "artist": "Pritam, Arijit Singh",
+    "cover": "/covers/hi-245.jpg",
+    "slug": "hawayein",
+    "hue": 39,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-246",
+    "title": "Junooni",
+    "artist": "Amit Trivedi, Arijit Singh",
+    "cover": "/covers/hi-246.jpg",
+    "slug": "junooni",
+    "hue": 92,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-247",
+    "title": "Ghafoor",
+    "artist": "Shashwat Sachdev, Shilpa Rao",
+    "cover": "/covers/hi-247.jpg",
+    "slug": "ghafoor",
+    "hue": 262,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-248",
+    "title": "Shubhaarambh - From \"Kai Po Che\"",
+    "artist": "Amit Trivedi, Shruti Pathak, Divya Kumar",
+    "cover": "/covers/hi-248.jpg",
+    "slug": "shubhaarambh-from-kai-po-che",
+    "hue": 150,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-249",
+    "title": "Saiyaara (From \"Saiyaara\")",
+    "artist": "Tanishk Bagchi, Faheem Abdullah",
+    "cover": "/covers/hi-249.jpg",
+    "slug": "saiyaara",
+    "hue": 158,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-250",
+    "title": "Baarish",
+    "artist": "Mohammed Irfan, Gajendra Verma, Mithoon",
+    "cover": "/covers/hi-250.jpg",
+    "slug": "baarish",
+    "hue": 115,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-251",
+    "title": "Barbaad (From \"Saiyaara\")",
+    "artist": "The Rish, Jubin Nautiyal",
+    "cover": "/covers/hi-251.jpg",
+    "slug": "barbaad",
+    "hue": 135,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-252",
+    "title": "Pal Pal Dil Ke Paas - Title Track",
+    "artist": "Arijit Singh, Parampara Thakur",
+    "cover": "/covers/hi-252.jpg",
+    "slug": "pal-pal-dil-ke-paas-title-track",
+    "hue": 312,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-253",
+    "title": "Ishq Jalakar - Karvaan",
+    "artist": "Shashwat Sachdev, Shahzad Ali",
+    "cover": "/covers/hi-253.jpg",
+    "slug": "ishq-jalakar-karvaan",
+    "hue": 290,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-254",
+    "title": "Dhurandhar - Title Track",
+    "artist": "Shashwat Sachdev, Hanumankind",
+    "cover": "/covers/hi-254.jpg",
+    "slug": "dhurandhar-title-track",
+    "hue": 280,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-255",
+    "title": "Zaroorat",
+    "artist": "Mustafa Zahid, Mithoon",
+    "cover": "/covers/hi-255.jpg",
+    "slug": "zaroorat",
+    "hue": 353,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-256",
+    "title": "Gehra Hua (From \"Dhurandhar\")",
+    "artist": "Shashwat Sachdev, Arijit Singh",
+    "cover": "/covers/hi-256.jpg",
+    "slug": "gehra-hua",
+    "hue": 200,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-257",
+    "title": "Tum Hi Ho Bandhu",
+    "artist": "Pritam, Neeraj Shridhar, Kavita Seth",
+    "cover": "/covers/hi-257.jpg",
+    "slug": "tum-hi-ho-bandhu",
+    "hue": 199,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-258",
+    "title": "The Child In Us",
+    "artist": "Enigma",
+    "cover": "/covers/hi-258.jpg",
+    "slug": "the-child-in-us",
+    "hue": 225,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-259",
+    "title": "Jeete Hain Chal",
+    "artist": "Kavita Seth",
+    "cover": "/covers/hi-259.jpg",
+    "slug": "jeete-hain-chal",
+    "hue": 237,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-260",
+    "title": "Sachi Muchi",
+    "artist": "Vishal-Shekhar, Mohit Chauhan",
+    "cover": "/covers/hi-260.jpg",
+    "slug": "sachi-muchi",
+    "hue": 73,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-261",
+    "title": "Main Aur Tu",
+    "artist": "Shashwat Sachdev, Jasmine Sandlas, Reble",
+    "cover": "/covers/hi-261.jpg",
+    "slug": "main-aur-tu",
+    "hue": 78,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-262",
+    "title": "Dhurandhar The Revenge",
+    "artist": "Shashwat Sachdev, Bombay Rockers",
+    "cover": "/covers/hi-262.jpg",
+    "slug": "dhurandhar-the-revenge",
+    "hue": 134,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-263",
+    "title": "Phir Se (From \"Dhurandhar The Revenge\")",
+    "artist": "Shashwat Sachdev, Arijit Singh, Irshad Kamil",
+    "cover": "/covers/hi-263.jpg",
+    "slug": "phir-se",
+    "hue": 56,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-264",
+    "title": "Jaiye Sajana",
+    "artist": "Shashwat Sachdev, Jasmine Sandlas",
+    "cover": "/covers/hi-264.jpg",
+    "slug": "jaiye-sajana",
+    "hue": 186,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-265",
+    "title": "Aaj Ke Baad",
+    "artist": "Manan Bhardwaj, Tulsi Kumar",
+    "cover": "/covers/hi-265.jpg",
+    "slug": "aaj-ke-baad",
+    "hue": 211,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-266",
+    "title": "Chaap Tilak - From \"Dark 7 White\"",
+    "artist": "Sargam Jassu, Nakash Aziz",
+    "cover": "/covers/hi-266.jpg",
+    "slug": "chaap-tilak-from-dark-7-white",
+    "hue": 18,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-267",
+    "title": "Arz Kiya Hai | Coke Studio Bharat",
+    "artist": "Anuv Jain",
+    "cover": "/covers/hi-267.jpg",
+    "slug": "arz-kiya-hai",
+    "hue": 93,
+    "src": "",
+    "playlist": "hindi"
+   },
+   {
+    "id": "hi-268",
+    "title": "Jo Tum Mere Ho",
+    "artist": "Anuv Jain",
+    "cover": "/covers/hi-268.jpg",
+    "slug": "jo-tum-mere-ho",
+    "hue": 15,
+    "src": "",
+    "playlist": "hindi"
+   }
+  ]
+ },
+ {
+  "id": "rap",
+  "name": "D.J. RAP",
+  "blurb": "Your rap & Punjabi mix",
+  "cover": "/covers/playlists/rap.jpg",
+  "hue": 185,
+  "tracks": [
+   {
+    "id": "rp-001",
+    "title": "Mercy",
+    "artist": "Badshah",
+    "cover": "/covers/rp-001.jpg",
+    "slug": "mercy",
+    "hue": 295,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-002",
+    "title": "Cheques",
+    "artist": "Shubh",
+    "cover": "/covers/rp-002.jpg",
+    "slug": "cheques",
+    "hue": 288,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-003",
+    "title": "Blue Eyes",
+    "artist": "Yo Yo Honey Singh",
+    "cover": "/covers/rp-003.jpg",
+    "slug": "blue-eyes",
+    "hue": 42,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-004",
+    "title": "Brown Rang",
+    "artist": "Yo Yo Honey Singh",
+    "cover": "/covers/rp-004.jpg",
+    "slug": "brown-rang",
+    "hue": 300,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-005",
+    "title": "Brown Munde",
+    "artist": "AP Dhillon, Gminxr, Gurinder Gill",
+    "cover": "/covers/rp-005.jpg",
+    "slug": "brown-munde",
+    "hue": 205,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-006",
+    "title": "Desi Kalakaar",
+    "artist": "Yo Yo Honey Singh",
+    "cover": "/covers/rp-006.jpg",
+    "slug": "desi-kalakaar",
+    "hue": 173,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-007",
+    "title": "Soulmate",
+    "artist": "Badshah, Arijit Singh",
+    "cover": "/covers/rp-007.jpg",
+    "slug": "soulmate",
+    "hue": 193,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-008",
+    "title": "Jugnu",
+    "artist": "Badshah, Nikhita Gandhi",
+    "cover": "/covers/rp-008.jpg",
+    "slug": "jugnu",
+    "hue": 127,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-009",
+    "title": "Dj Waley Babu (feat. Aastha Gill)",
+    "artist": "Badshah, Aastha Gill",
+    "cover": "/covers/rp-009.jpg",
+    "slug": "dj-waley-babu",
+    "hue": 284,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-010",
+    "title": "Tareefan",
+    "artist": "QARAN, Badshah",
+    "cover": "/covers/rp-010.jpg",
+    "slug": "tareefan",
+    "hue": 352,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-011",
+    "title": "Buzz (feat. Badshah)",
+    "artist": "Aastha Gill, Badshah",
+    "cover": "/covers/rp-011.jpg",
+    "slug": "buzz",
+    "hue": 38,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-012",
+    "title": "High Heels",
+    "artist": "Jaz Dhami, Yo Yo Honey Singh",
+    "cover": "/covers/rp-012.jpg",
+    "slug": "high-heels",
+    "hue": 181,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-013",
+    "title": "Let's Nacho",
+    "artist": "Nucleya, Benny Dayal, Badshah",
+    "cover": "/covers/rp-013.jpg",
+    "slug": "let-s-nacho",
+    "hue": 135,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-014",
+    "title": "Jagga Jatt",
+    "artist": "Ikka, Diljit Dosanjh, Badshah",
+    "cover": "/covers/rp-014.jpg",
+    "slug": "jagga-jatt",
+    "hue": 203,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-015",
+    "title": "Naina (From \"Crew\")",
+    "artist": "Diljit Dosanjh, Badshah, Raj Ranjodh",
+    "cover": "/covers/rp-015.jpg",
+    "slug": "naina",
+    "hue": 326,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-016",
+    "title": "Kinni Kinni",
+    "artist": "Diljit Dosanjh, thiarajxtt",
+    "cover": "/covers/rp-016.jpg",
+    "slug": "kinni-kinni",
+    "hue": 320,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-017",
+    "title": "Born to Shine",
+    "artist": "Diljit Dosanjh",
+    "cover": "/covers/rp-017.jpg",
+    "slug": "born-to-shine",
+    "hue": 242,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-018",
+    "title": "All Black",
+    "artist": "Raftaar, Sukh-E Muzical Doctorz, Jaani",
+    "cover": "/covers/rp-018.jpg",
+    "slug": "all-black",
+    "hue": 45,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-019",
+    "title": "Tu Aake Dekhle",
+    "artist": "King",
+    "cover": "/covers/rp-019.jpg",
+    "slug": "tu-aake-dekhle",
+    "hue": 69,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-020",
+    "title": "Maan Meri Jaan",
+    "artist": "King",
+    "cover": "/covers/rp-020.jpg",
+    "slug": "maan-meri-jaan",
+    "hue": 281,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-021",
+    "title": "One Love",
+    "artist": "Shubh",
+    "cover": "/covers/rp-021.jpg",
+    "slug": "one-love",
+    "hue": 298,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-022",
+    "title": "Dhundhala",
+    "artist": "Yashraj, Dropped Out, Talwiinder",
+    "cover": "/covers/rp-022.jpg",
+    "slug": "dhundhala",
+    "hue": 68,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-023",
+    "title": "MVP",
+    "artist": "Shubh",
+    "cover": "/covers/rp-023.jpg",
+    "slug": "mvp",
+    "hue": 353,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-024",
+    "title": "Excuses",
+    "artist": "AP Dhillon, Gurinder Gill, Intense",
+    "cover": "/covers/rp-024.jpg",
+    "slug": "excuses",
+    "hue": 197,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-025",
+    "title": "We Rollin",
+    "artist": "Shubh",
+    "cover": "/covers/rp-025.jpg",
+    "slug": "we-rollin",
+    "hue": 270,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-026",
+    "title": "No Love",
+    "artist": "Shubh",
+    "cover": "/covers/rp-026.jpg",
+    "slug": "no-love",
+    "hue": 161,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-027",
+    "title": "Elevated",
+    "artist": "Shubh",
+    "cover": "/covers/rp-027.jpg",
+    "slug": "elevated",
+    "hue": 92,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-028",
+    "title": "Obsessed",
+    "artist": "Riar Saab, Abhijay Sharma",
+    "cover": "/covers/rp-028.jpg",
+    "slug": "obsessed",
+    "hue": 49,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-029",
+    "title": "Baller",
+    "artist": "Shubh, Ikky",
+    "cover": "/covers/rp-029.jpg",
+    "slug": "baller",
+    "hue": 288,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-030",
+    "title": "Apa Fer Milaange",
+    "artist": "Savi Kahlon, The Masterz",
+    "cover": "/covers/rp-030.jpg",
+    "slug": "apa-fer-milaange",
+    "hue": 0,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-031",
+    "title": "G.O.A.T.",
+    "artist": "Diljit Dosanjh",
+    "cover": "/covers/rp-031.jpg",
+    "slug": "g-o-a-t",
+    "hue": 178,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-032",
+    "title": "Yimmy Yimmy",
+    "artist": "Tayc, Shreya Ghoshal, Rajat Nagpal",
+    "cover": "/covers/rp-032.jpg",
+    "slug": "yimmy-yimmy",
+    "hue": 106,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-033",
+    "title": "The Naari Naari Song",
+    "artist": "Sachin-Jigar, Vishal Dadlani, Jonita Gandhi",
+    "cover": "/covers/rp-033.jpg",
+    "slug": "the-naari-naari-song",
+    "hue": 82,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-034",
+    "title": "Wavy",
+    "artist": "Karan Aujla, Jay Trak",
+    "cover": "/covers/rp-034.jpg",
+    "slug": "wavy",
+    "hue": 191,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-035",
+    "title": "Old Money",
+    "artist": "AP Dhillon",
+    "cover": "/covers/rp-035.jpg",
+    "slug": "old-money",
+    "hue": 290,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-036",
+    "title": "With You",
+    "artist": "AP Dhillon",
+    "cover": "/covers/rp-036.jpg",
+    "slug": "with-you",
+    "hue": 284,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-037",
+    "title": "King Shit",
+    "artist": "Shubh",
+    "cover": "/covers/rp-037.jpg",
+    "slug": "king-shit",
+    "hue": 223,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-038",
+    "title": "Bandana",
+    "artist": "Shubh",
+    "cover": "/covers/rp-038.jpg",
+    "slug": "bandana",
+    "hue": 211,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-039",
+    "title": "Millionaire",
+    "artist": "Yo Yo Honey Singh",
+    "cover": "/covers/rp-039.jpg",
+    "slug": "millionaire",
+    "hue": 29,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-040",
+    "title": "Dope Shope",
+    "artist": "Yo Yo Honey Singh, Deep Money",
+    "cover": "/covers/rp-040.jpg",
+    "slug": "dope-shope",
+    "hue": 257,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-041",
+    "title": "Angreji Beat",
+    "artist": "Yo Yo Honey Singh, Gippy Grewal",
+    "cover": "/covers/rp-041.jpg",
+    "slug": "angreji-beat",
+    "hue": 307,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-042",
+    "title": "Tanning",
+    "artist": "Yo Yo Honey Singh",
+    "cover": "/covers/rp-042.jpg",
+    "slug": "tanning",
+    "hue": 255,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-043",
+    "title": "Lonely",
+    "artist": "Himesh Reshammiya",
+    "cover": "/covers/rp-043.jpg",
+    "slug": "lonely",
+    "hue": 325,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-044",
+    "title": "Mast Kalander",
+    "artist": "Mika Singh, Yo Yo Honey Singh",
+    "cover": "/covers/rp-044.jpg",
+    "slug": "mast-kalander",
+    "hue": 298,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-045",
+    "title": "First Kiss",
+    "artist": "Yo Yo Honey Singh, Ipsitaa",
+    "cover": "/covers/rp-045.jpg",
+    "slug": "first-kiss",
+    "hue": 353,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-046",
+    "title": "Saiyaan Ji",
+    "artist": "Yo Yo Honey Singh, Neha Kakkar",
+    "cover": "/covers/rp-046.jpg",
+    "slug": "saiyaan-ji",
+    "hue": 354,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-047",
+    "title": "Dheere Dheere",
+    "artist": "Yo Yo Honey Singh",
+    "cover": "/covers/rp-047.jpg",
+    "slug": "dheere-dheere",
+    "hue": 62,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-048",
+    "title": "Titliaan",
+    "artist": "Afsana Khan, Avvy Sra, Harrdy Sandhu",
+    "cover": "/covers/rp-048.jpg",
+    "slug": "titliaan",
+    "hue": 279,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-049",
+    "title": "Dil Tu Jaan Tu",
+    "artist": "Gurnazar, Chet Singh",
+    "cover": "/covers/rp-049.jpg",
+    "slug": "dil-tu-jaan-tu",
+    "hue": 120,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-050",
+    "title": "Filhall",
+    "artist": "B Praak, Akshay Kumar, Nupur Sanon",
+    "cover": "/covers/rp-050.jpg",
+    "slug": "filhall",
+    "hue": 43,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-051",
+    "title": "Jaan Le Gayi (From \"Bhoomi 2024\")",
+    "artist": "Salim-Sulaiman, Sonu Nigam",
+    "cover": "/covers/rp-051.jpg",
+    "slug": "jaan-le-gayi",
+    "hue": 254,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-052",
+    "title": "52 Bars",
+    "artist": "Karan Aujla, Ikky",
+    "cover": "/covers/rp-052.jpg",
+    "slug": "52-bars",
+    "hue": 193,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-053",
+    "title": "Winning Speech",
+    "artist": "Karan Aujla, Mxrci, Seshnolan",
+    "cover": "/covers/rp-053.jpg",
+    "slug": "winning-speech",
+    "hue": 242,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-054",
+    "title": "Party With The Bhoothnath",
+    "artist": "Yo Yo Honey Singh",
+    "cover": "/covers/rp-054.jpg",
+    "slug": "party-with-the-bhoothnath",
+    "hue": 280,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-055",
+    "title": "Besos",
+    "artist": "Shreya Ghoshal, Rajat Nagpal, Freebot",
+    "cover": "/covers/rp-055.jpg",
+    "slug": "besos",
+    "hue": 186,
+    "src": "",
+    "playlist": "rap"
+   },
+   {
+    "id": "rp-056",
+    "title": "Thodi Si Daaru",
+    "artist": "AP Dhillon, Shreya Ghoshal",
+    "cover": "/covers/rp-056.jpg",
+    "slug": "thodi-si-daaru",
+    "hue": 266,
+    "src": "",
+    "playlist": "rap"
+   }
+  ]
+ }
+]
